@@ -12,10 +12,12 @@ A clean and professional personal portfolio website built using HTML, CSS and Ja
  - Fully responsive design
 
 Built With
+---
 HTML
 CSS3
----
+
 
 Author
-Mogal Khaja Irfan Ali Baig 
 ---
+Mogal Khaja Irfan Ali Baig 
+
